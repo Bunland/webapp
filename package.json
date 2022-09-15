@@ -1,0 +1,24 @@
+{
+  "name": "webapp",
+  "version": "1.0.0",
+  "description": "Make Desktop Apps with Bun.js",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "dev": "bun run index.js",
+    "build": "bun run ./build-linux.sh"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/bunland/webapp"
+  },
+  "keywords": [
+    "bunjs",
+    "golang",
+    "webapp",
+    "chrome"
+  ],
+  "author": "vitalspace",
+  "license": "MIT"
+}
