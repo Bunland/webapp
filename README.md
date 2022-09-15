@@ -26,6 +26,7 @@ bun install
 ```
 
 Run the application in development mode. 
+
 Go back to the main "webapp" folder and type in the console:
 ```
 bun run dev
