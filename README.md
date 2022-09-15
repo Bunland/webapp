@@ -50,3 +50,12 @@ Next, Golang will take care of packaging your application, you will see that a f
 
 https://user-images.githubusercontent.com/29004070/190515371-e656baf2-b5d0-4d71-8bd6-3acbc46c02e2.mp4
 
+
+If you wish, you can modify the name of the application and its information in the file: build-linux.sh, if you want to change the icons you can go to the "icons" folder and modify the existing one for another of your preference.
+
+This project is based on Lorca and in turn on Carlo.js. 
+Lorca 
+https://github.com/zserge/lorca 
+Carlo 
+https://github.com/GoogleChromeLabs/carlo
+
