@@ -32,3 +32,11 @@ Go back to the main "webapp" folder and type in the console:
 bun run dev
 ```
 
+Build the webapp.
+
+Unfortunately "for now", the only way to build our webapp is using the Golang language, so make sure you have golang installed. You can follow the following link which will help you to install Golang easily:
+
+https://github.com/golang/go/wiki/Ubuntu
+
+
+
