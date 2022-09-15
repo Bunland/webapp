@@ -8,5 +8,5 @@ This is a project still under construction, please be patient.
 To get started with the project, clone the same as follows. open a ternimal and paste this
 
 ``` 
-git clone github.com/bunland/webapp.git
+git clone https://github.com/Bunland/webapp.git
 ```
