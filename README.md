@@ -39,4 +39,13 @@ Unfortunately "for now", the only way to build our webapp is using the Golang la
 https://github.com/golang/go/wiki/Ubuntu
 
 
+Once you have golang installed write in the console in the "webapp" directory:
+
+```
+bun run build
+```
+
+Next, Golang will take care of packaging your application, you will see that a folder called "webapp_1.0.0" and a file called "webapp_1.0.0.deb" have been created, with the latter you will be able to install your application on your computer.
+
+
 
