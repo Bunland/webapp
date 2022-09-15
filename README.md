@@ -48,4 +48,5 @@ bun run build
 Next, Golang will take care of packaging your application, you will see that a folder called "webapp_1.0.0" and a file called "webapp_1.0.0.deb" have been created, with the latter you will be able to install your application on your computer.
 
 
+https://user-images.githubusercontent.com/29004070/190515371-e656baf2-b5d0-4d71-8bd6-3acbc46c02e2.mp4
 
