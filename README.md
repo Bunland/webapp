@@ -10,12 +10,12 @@ To get started with the project, clone the same as follows. open a ternimal and 
 ``` 
 git clone https://github.com/Bunland/webapp.git
 ```
-Now go to the project with
+Now go to the project with:
 ```
 cd webapp
 ```
 
-install dependencies 
+install dependencies (The necessary dependencies for our Svelte Ui will be installed).
 
 ```
 cd myapp 
@@ -23,9 +23,4 @@ cd myapp
 
 ```
 bun install
-```
-or
-
-```
-npm install
 ```
