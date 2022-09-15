@@ -22,5 +22,10 @@ cd myapp
 ```
 
 ```
-bun install or npm install
+bun install
+```
+or
+
+```
+npm install
 ```
