@@ -10,7 +10,7 @@ To get started with the project, clone the same as follows. open a ternimal and 
 ``` 
 git clone https://github.com/Bunland/webapp.git
 ```
-
+Now go to the project with
 ```
 cd webapp
 ```
