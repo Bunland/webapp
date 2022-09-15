@@ -10,3 +10,17 @@ To get started with the project, clone the same as follows. open a ternimal and 
 ``` 
 git clone https://github.com/Bunland/webapp.git
 ```
+
+```
+cd webapp
+```
+
+install dependencies 
+
+```
+cd myapp 
+```
+
+```
+bun install or npm install
+```
