@@ -50,6 +50,8 @@ Next, Golang will take care of packaging your application, you will see that a f
 
 https://user-images.githubusercontent.com/29004070/190515371-e656baf2-b5d0-4d71-8bd6-3acbc46c02e2.mp4
 
+![image](https://user-images.githubusercontent.com/29004070/193175313-cca3836d-ed39-4fad-975e-2ef750b5c7c4.png)
+
 
 If you wish, you can modify the name of the application and its information in the file: build-linux.sh, if you want to change the icons you can go to the "icons" folder and modify the existing one for another of your preference.
 
