@@ -21,5 +21,5 @@ const options = {
 };
 // Save the configuration for when the application is built.
 await Bun.write("build.json", JSON.stringify(options));
-// Start webapp
+// Start webapp.
 await webapp.createWindow(options);
